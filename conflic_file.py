@@ -1,2 +1,2 @@
 def demo():
-    print("abcdefgh")
+    print("efgh")

@@ -1,1 +1,1 @@
-print("DuzDao Hello World")
+print("Hello World")
